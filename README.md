@@ -1,1 +1,4 @@
 # De-CAPTCHA
+De-CAPTCHA is a deep-learning based CAPTCHA solver which is a human-centered
+test to distinguish humans from bots. CAPTCHA ( Completely Automated Public Turing Test to tell Computers and Humans Apart) is the most popular way to prevent bots from entering the unauthorized systems. For an efficient model,
+the automatically generated image dataset of 10,000 images with obfuscations has been used. The aim of the project is to apply deep learning models like VGG11 and custom Convolutional Nueral Networks on the images generated in the program to correctly detect the text present in noisy data. As the outcome of the project, various observations related to small CNN and large CNN models and comparison of models has been done. The projects also analyses performance based on accuracy of models on different datasets.
